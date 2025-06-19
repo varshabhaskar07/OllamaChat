@@ -71,7 +71,8 @@ Create a file named `app.py` in your `ollama_web_app` directory. The content of 
     python app.py
     ```
 3.  **Access the Application:** Open your web browser and go to `http://127.0.0.1:5000/`.
-   ![image](https://github.com/user-attachments/assets/f48e4d47-a6e7-4d7f-b3d9-856d05c16f7b)
+    ![image](https://github.com/user-attachments/assets/a899939e-e746-47ee-9ede-fc70d501973a)
+
 
 
 ## 💡 Usage
